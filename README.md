@@ -24,4 +24,4 @@ League of Legends je moje oblíbená hra.
 ## Odkazy
 
 [League of Legends](https://www.leagueoflegends.com/)
-[Wiki Olaf](https://leagueoflegends.fandom.com/wiki/Olaf)
+[Wiki Olaf](https://leagueoflegends.fandom.com/wiki/)
