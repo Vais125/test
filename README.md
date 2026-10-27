@@ -19,5 +19,6 @@ text 2
 5. odrážkami
 
 League of Legends je moje oblíbená hra.
-![League of Legends](images/mapka_lolko.jpg)
-![League of Legends](images/LoLko.jpg)
+![Mapa League of Legends](obrazky/mapka%20lolko.jpg)
+![League of Legends](obrazky/LoLko.jpg)
+
