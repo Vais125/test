@@ -17,7 +17,7 @@ text 2
 3. s
 4. pěti
 5. odrážkami
-
+## LoL
 League of Legends je moje oblíbená hra.
 ![Mapa League of Legends](obrazky/mapka%20lolko.jpg)
 ![League of Legends](obrazky/LoLko.jpg)
