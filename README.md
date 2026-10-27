@@ -21,4 +21,7 @@ text 2
 League of Legends je moje oblíbená hra.
 ![Mapa League of Legends](obrazky/mapka%20lolko.jpg)
 ![League of Legends](obrazky/LoLko.jpg)
+## Odkazy
 
+[League of Legends](https://www.leagueoflegends.com/)
+[Wiki Olaf](https://leagueoflegends.fandom.com/wiki/Olaf)
